@@ -1,3 +1,5 @@
 print('Hello World')
 
-print('Hallo Worl')
+print('Hallo Welt')
+
+print('SALUT LE MONDE')
